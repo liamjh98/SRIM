@@ -1,4 +1,4 @@
-# SRIM
+# SRIM with ```PYSRIM```
 Uses the pysrim package:  https://pysrim.readthedocs.io/en/latest/index.html, *must use depreciated version of pyyawl.*
 
 SRIM is a software package concerning the Stopping and Range of Ions in Matter. www.SRIM.org. The SRIM (formerly TRIM) Monte Carlo simulation code is widely used to compute a number of parameters relevant to ion beam implantation and ion beam processing of materials. It also has the capability to compute a common radiation damage exposure unit known as atomic displacements per atom (dpa).
